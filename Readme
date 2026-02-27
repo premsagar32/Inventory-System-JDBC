@@ -1,1 +1,16 @@
+# 📦 Relational Database Inventory System (JDBC)
 
+A dynamic management tool that bridges Java logic with a Relational Database (MySQL). This project demonstrates a shift from flat-file storage to enterprise-grade data management using the DAO (Data Access Object) design pattern.
+
+## 🚀 Key Features
+* **SQL Integration:** Full CRUD (Create, Read, Update, Delete) operations performed on a MySQL database.
+* **Security First:** Utilized `PreparedStatement` to protect the application against SQL Injection attacks.
+* **DAO Pattern:** Separated business logic from database access for better scalability and code reusability.
+
+## 🛠️ Tech Stack
+* **Language:** Java
+* **Database:** MySQL 8.0
+* **Library:** MySQL Connector/J (JDBC)
+
+## 📈 Learning Outcomes
+Developed a deep understanding of how Java interacts with relational data. mastered the lifecycle of database connections and optimized SQL queries for real-time inventory tracking.
