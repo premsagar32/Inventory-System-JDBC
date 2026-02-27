@@ -1,0 +1,5 @@
+"I implemented the DAO Design Pattern to separate business logic from data access."
+
+"I used PreparedStatement to prevent SQL Injection, ensuring the application's security."
+
+"I managed database resources using Try-with-resources for efficient connection handling."
